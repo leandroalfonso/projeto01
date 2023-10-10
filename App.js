@@ -16,6 +16,11 @@ const produtos = [
     id: '3',
     nome: 'Tablet',
     preco: 1500
+  },
+  {
+    id: '34',
+    nome: 'Tablet Grande',
+    preco: 2500
   }
 ];
 
